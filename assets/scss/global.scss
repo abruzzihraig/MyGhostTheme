@@ -102,21 +102,17 @@ blockquote {
   padding: 2em 0;
   background: $gray-lightest;
   border: 1px solid $gray-lighter;
-  border-radius: $border-radius;
+  border-left-width: 10px;
   font-family: $serif-font;
   font-weight: lighter;
-  font-style: italic;
-  font-size: 1.3em;
-  text-align: center;
+  font-size: 1em;
+  text-align: left;
 
   p {
-
     &:last-child {
       margin-bottom: 0;
     }
-
   }
-
 }
 
 // ------------------------------
