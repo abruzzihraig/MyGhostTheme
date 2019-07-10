@@ -1193,6 +1193,7 @@ hr {
   border-radius: 3px;
   text-align: center; }
 .post pre {
+  overflow: auto;
   word-wrap: break-word;
   word-break: break-all;
   width: 95%; }

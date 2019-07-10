@@ -1,0 +1,26 @@
+{
+  "name": "uno",
+  "version": "1.1.0",
+  "description": "blog theme for Abruzzi",
+  "keywords": ["ghost-theme"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abruzzihraig/MyGhostTheme.git"
+  },
+  "author": {
+    "name": "Abruzzi Hraig",
+    "email": "abruzzi.hraig@gmail.com"
+  },
+  "config": {
+    "posts_per_page": 5
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abruzzihraig/MyGhostTheme/issues"
+  },
+  "homepage": "https://github.com/abruzzihraig/MyGhostTheme#readme"
+}
